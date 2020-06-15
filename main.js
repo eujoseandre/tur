@@ -1,0 +1,1 @@
+$('div').scrollspy({ target: '#list-example' })
